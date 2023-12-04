@@ -1,5 +1,6 @@
 # Real time spectral acquisition
-Take data from Ocean Optics Spectrometer and show the reflectivity, CIE color coordinates and the peak wavelength vs. time. 
+This program acquires data from Ocean Optics Spectrometer and show the reflectivity, CIE color coordinates and the peak wavelength vs. time. It uses the python package seabreeze. 
+
 Use the following steps to run the program
 
 1) Download all the files to a folder.
